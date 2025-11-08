@@ -25,7 +25,6 @@ To get started with this repository, follow these steps:
 This repository is made with **Comet**, Perplexity's AI-powered browser that provides enhanced coding assistance and AI integration. Comet offers advanced features for support on development, learning and automation of simple tasks.
 
 **Get Early Access:**
-- Visit: [pplx.ai/sabilashan-ganeshan](https://pplx.ai/sabilashan-ganeshan)
 - Sign up with your university email address to get early access to Comet
 - Perfect for students and researchers working on prompt engineering projects
 
