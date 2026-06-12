@@ -6,8 +6,8 @@ To get started with this repository, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sabilashang/stemlink_prompt.git
-   cd stemlink
+   git clone https://github.com/sabilashang/prompting_guide.git
+   cd prompting_guide
    ```
 
 2. **Install Python dependencies (if any):**
